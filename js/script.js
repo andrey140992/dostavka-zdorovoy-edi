@@ -58,7 +58,7 @@ tabsParent.addEventListener('click', ( event ) => {
 
 // Timer
 
-const deadLine = '2021-06-10';
+const deadLine = '2022-06-10';
 
 
 function getTimeRemaining(endtime){
